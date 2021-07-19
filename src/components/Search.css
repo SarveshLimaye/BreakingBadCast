@@ -1,0 +1,16 @@
+.search {
+    text-align: center;
+    
+}
+
+.search-box{
+    margin-bottom: 2rem;
+    width: 60%;
+    border-radius: 5%;
+   background-color:seagreen;
+   color: silver;
+}
+
+::placeholder {
+    color: purple;
+  }
