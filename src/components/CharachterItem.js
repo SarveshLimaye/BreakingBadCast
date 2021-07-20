@@ -1,5 +1,4 @@
 import React from "react"
-import { CardGroup,Card } from 'react-bootstrap';
 import "../components/CharachterItem.css"
 const CharachterItem = ({item}) => {
     return (
